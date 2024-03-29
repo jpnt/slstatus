@@ -67,4 +67,5 @@ source code. This keeps it fast, secure and simple.
 Spectrwm
 --------
 In spectrwm.conf set `bar_action = /path/to/slstatus.sh`.
-Set bar_action_expand to 1 in case the bar is not properly formatted.
+Set `bar_action_expand = 1` in case the bar is not properly formatted.
+An example bar_format that works well `bar_format = +|L+L+<+S+<+W+|R+A`.
