@@ -1,5 +1,6 @@
 *.o
 slstatus
+config.h
 
 # Executables
 *.out
